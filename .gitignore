@@ -1,5 +1,10 @@
-results.csv
-requirements.txt
-venv/
-idea/
-.idea
+__pycache__/
+lazer.dem
+.idea/
+.DS_Store
+garbage.py
+env/
+csv_files/
+demo_files/
+demo_results/
+plot_files/
